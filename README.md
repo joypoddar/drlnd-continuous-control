@@ -94,4 +94,4 @@ Run the notebooks
 
 ### Report
 
-There is a separate file named **Report.pdf** which has a detailed explaination of the code and its working.
+There is a separate file named **Report.ipynb** which has a detailed explaination of the code and its working.
